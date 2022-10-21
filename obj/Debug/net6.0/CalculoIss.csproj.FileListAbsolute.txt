@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CalculoIss\bin\Debug\net6.0\CalculoIss.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CalculoIss\bin\Debug\net6.0\CalculoIss.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CalculoIss\bin\Debug\net6.0\CalculoIss.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CalculoIss\bin\Debug\net6.0\CalculoIss.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CalculoIss\bin\Debug\net6.0\CalculoIss.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CalculoIss\obj\Debug\net6.0\CalculoIss.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CalculoIss\obj\Debug\net6.0\CalculoIss.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CalculoIss\obj\Debug\net6.0\CalculoIss.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CalculoIss\obj\Debug\net6.0\CalculoIss.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CalculoIss\obj\Debug\net6.0\CalculoIss.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CalculoIss\obj\Debug\net6.0\CalculoIss.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CalculoIss\obj\Debug\net6.0\refint\CalculoIss.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CalculoIss\obj\Debug\net6.0\CalculoIss.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CalculoIss\obj\Debug\net6.0\CalculoIss.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\CalculoIss\obj\Debug\net6.0\ref\CalculoIss.dll
